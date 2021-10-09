@@ -9,6 +9,7 @@ int main()
         {
             cout << i << "*" << j << "=" << i * j << endl;
 
+            cout << i << "*" << j << "=" << i * j << endl;
         }
     }
     system("pause");
